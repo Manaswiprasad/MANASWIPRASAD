@@ -136,7 +136,7 @@ Python, YOLO, OpenCV, TensorFlow
 # 📫 Connect With Me
 
 * GitHub: [https://github.com/Manaswiprasad](https://github.com/Manaswiprasad)
-* LinkedIn: Add Your LinkedIn URL
+* LinkedIn: linkedin.com/in/anchuri-manaswiprasad-08b6182a3/
 * Email: [manaswianchoori@gmail.com](mailto:manaswianchoori@gmail.com)
 
 ---
